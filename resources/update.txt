@@ -1,0 +1,4 @@
+login anonymous
+force_install_dir ./7days2die
+app_update 251570
+quit
